@@ -158,27 +158,21 @@
     "Description": "主題式的壁飾內容，如運動、娛樂、科技等，搭配紐約現代化、色彩鮮豔的 2D 塗鴉式壁畫，讓人彷彿置身紐約街頭。值得一提的是，市政店更是全台首度一家有無障礙步道及盥洗間的餐廳，這種貼心設計，相信能為前來用餐的殘障朋友帶來更方便舒適的用餐環境。另外，市政店還附有專用停車場，更方便您前來用餐。",
     "Id": "C3_387000000A_005102",
     "Map": "",
-    "Name": "FR"
-    Id "AYs",
+    "Name": "FRIDAYs",
     "Opentime": "星期一~星期日 11:30-23:00",
     "Parkinginfo": "",
-    "Picdescribe1": "TGI FR"
-    Id "AYS",
+    "Picdescribe1": "TGI FRIDAYS",
     "Picdescribe2": "入口處",
     "Picdescribe3": "商店內部",
-    "Picture1": "http://travel.taichung.gov.tw/UploadFile/Pic/Store/a/fr"
-    Id "ays.jpg",
-    "Picture2": "http://travel.taichung.gov.tw/UploadFile/Pic/Store/a/Fr"
-    Id "ay3.JPG",
-    "Picture3": "http://travel.taichung.gov.tw/UploadFile/Pic/Store/a/Fr"
-    Id "ay4.JPG",
+    "Picture1": "http://travel.taichung.gov.tw/UploadFile/Pic/Store/a/fridays.jpg",
+    "Picture2": "http://travel.taichung.gov.tw/UploadFile/Pic/Store/a/Friday3.JPG",
+    "Picture3": "http://travel.taichung.gov.tw/UploadFile/Pic/Store/a/Friday4.JPG",
     "Px": "120.642885",
     "Py": "24.157489",
     "Region": "台中市",
     "Tel": "886-4-2523579",
     "Town": "西屯區",
-    "Website": "http://www.tgifr"
-    Id "ays.com.tw/",
+    "Website": "http://www.tgifridays.com.tw/",
     "Zipcode": "403"
 }, {
     "Add": "台中市西區五權西四街114號",
@@ -288,8 +282,7 @@
     "Region": "台中市",
     "Tel": "886-4-3716568",
     "Town": "西區",
-    "Website": "http://www.theme.net.tw/?page_"
-    Id "=44",
+    "Website": "http://www.theme.net.tw/?page_id=44",
     "Zipcode": "403"
 }, {
     "Add": "台中市西區五權七街58號",
@@ -311,8 +304,7 @@
     "Region": "台中市",
     "Tel": "886-4-3769755",
     "Town": "西區",
-    "Website": "http://www.theme.net.tw/?page_"
-    Id "=46",
+    "Website": "http://www.theme.net.tw/?page_id=46",
     "Zipcode": "403"
 }, {
     "Add": "台中市西區五權西四街108號",
@@ -493,7 +485,7 @@
 }, {
     "Add": "台中市西屯區朝富路116號",
     "Class": "01",
-    "Description": "走進吉町新作創藝料理陳設高雅的店面，不必花費心思點菜，因為店裡沒有制式的菜單，所有菜色都在師傅的腦海裡，依據當日採買的食材，憑藉多年料理的經驗，取各式料理的優點作融合，創造各式新穎的菜色與擺盤，而且這些獨家料理登場有些僅此一次，下回要吃到相同的菜色可是難上加難，品味時別忘了細細品嚐，手作風味絕對讓您回味無窮，意猶未盡",
+    "Description": "走進吉町新作創藝料理陳設高雅的店面，不必花費心思點菜，因為店裡沒有制式的菜單，所有菜色都在師傅的腦海裡，依據當日採買的食材，憑藉多年料理的經驗，取各式料理的優點作融合，創造各式新穎的菜色與擺盤，而且這些獨家料理登場有些僅此一次，下回要吃到相同的菜色可是難上加難，品味時別忘了細細品嚐，手作風味絕對讓您回味無窮，意猶未盡 ~",
     "Id": "C3_387000000A_005124",
     "Map": "",
     "Name": "吉町創意料理",
